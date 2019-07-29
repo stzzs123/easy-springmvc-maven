@@ -5,12 +5,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Login Page!</title>
+<title>登录页面</title>
 </head>
 <body>
 <form action="login">
-	username：<input id="username" name="username" type="text"></input><br>
-	password：<input id="username" name="password" type="password"></input><br>
+	用户名：<input id="username" name="username" type="text"></input><br>
+	密码：<input id="username" name="password" type="password"></input><br>
 	<input type="submit" value="登录">
 </form>
 </body>
